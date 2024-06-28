@@ -15,8 +15,8 @@ elif (90>(100*(c_marks)/t_marks)>80):
 elif (80>(100*(c_marks)/t_marks)>70):
     print("Your grade is C ")
 elif (70>(100*(c_marks)/t_marks)>60):
-    print("Your grade is ")
+    print("Your grade is D ")
 elif (60>(100*(c_marks)/t_marks)>50):
-    print("Your grade is ")
+    print("Your grade is E ")
 else:
     print("Better luck next time")
