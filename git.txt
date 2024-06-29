@@ -9,3 +9,5 @@ git add <file1> <file2>.....  or we can use git add . to add all files
 git commit -m <message> is used to remember our changes by adding comments
 
 git push is used to push the command to github 
+
+git log is used to see the changes made by you to the program 
