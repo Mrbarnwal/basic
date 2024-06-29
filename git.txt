@@ -1,0 +1,11 @@
+git init is used to start git at the program 
+
+git branch -m <name> is used to name the branch of your 
+
+git status is used to see the status of your program 
+
+git add <file1> <file2>.....  or we can use git add . to add all files
+
+git commit -m <message> is used to remember our changes by adding comments
+
+git push is used to push the command to github 
