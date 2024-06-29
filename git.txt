@@ -11,3 +11,7 @@ git commit -m <message> is used to remember our changes by adding comments
 git push is used to push the command to github 
 
 git log is used to see the changes made by you to the program 
+
+git checkout <branch> is used to change the branch from one to another 
+
+git merge <branch> is used to merge ... mann lo hm log X branch me h or command diye ki merge Y branch toh Y ko X me le ayga 
