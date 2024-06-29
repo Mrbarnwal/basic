@@ -7,7 +7,7 @@ m3= int(input("Enter the marks of coresponding subject: "))
 t_marks= f1 + f2 + f3 
 c_marks= m1 + m2 + m3
 if f1==0 or f2==0 or f3==0:
-    print("Lichad panti mat kriye")
+    print("Please enter a valid marks ")
 elif ((100*(c_marks)/t_marks)>90):
     print("Your grade is A")
 elif (90>(100*(c_marks)/t_marks)>80):
