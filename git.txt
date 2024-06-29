@@ -15,3 +15,8 @@ git log is used to see the changes made by you to the program
 git checkout <branch> is used to change the branch from one to another 
 
 git merge <branch> is used to merge ... mann lo hm log X branch me h or command diye ki merge Y branch toh Y ko X me le ayga 
+
+git diff <file1> <file2> gives the difference between two files 
+
+git stash is used to checkout between files without commiting it 
+
